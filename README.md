@@ -1,5 +1,34 @@
 # FaceTrack — AI-Based Face Recognition Attendance System
 
+
+## Academic Project
+
+FaceTrack is an academic project assigned by **JVM Maheta College**, affiliated with the **University of Mumbai**.
+
+The project was developed as a practical implementation of concepts including:
+
+* Full-stack web application development
+* REST API development
+* Database management
+* Computer vision
+* Facial recognition
+* Desktop GUI development
+* Cloud/backend deployment
+* Software integration
+
+### Institution
+
+**JVM Maheta College**
+Affiliated with **University of Mumbai**
+
+### Project
+
+**FaceTrack — AI-Based Face Recognition Attendance System**
+
+The project combines a web-based attendance management system with a Python desktop face-recognition application to provide an automated approach to student attendance.
+
+> This project is developed for academic and educational purposes.
+
 FaceTrack is a full-stack **face recognition-based attendance management system** designed to automate student attendance using facial recognition.
 
 The system consists of three main components:
@@ -561,9 +590,3 @@ GitHub:
 https://github.com/deepanshu045
 
 ---
-
-## License
-
-Add your preferred open-source license here if you intend to distribute the project publicly.
-
-If this project is being submitted as an academic/college project, you may also specify the academic institution and project information here.
